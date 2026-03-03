@@ -2,10 +2,15 @@ p{
     font-family: "Fira Sans", sans-serif;
     font-size: 15px;
 }
+
 #titulo-principal{
     color:blue;
 }
 
 .destaque{
-    background-color: yellow;
+    background-color:yellow;
+}
+
+.importante{
+    color:red;
 }

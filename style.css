@@ -24,8 +24,9 @@ button{
         background-color: purple;
     }
 }
-.container p{
-    color:rgb(0, 153, 255);
+
+.container > div > p {
+    color: red;
 }
 
 p::first-letter{

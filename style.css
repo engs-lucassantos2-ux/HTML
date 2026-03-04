@@ -31,3 +31,8 @@ button{
 p::first-letter{
     font-size: 20px;
 }
+
+li:first-child{
+    font-weight: bold;
+
+}

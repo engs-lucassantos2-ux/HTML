@@ -15,6 +15,19 @@ p{
     color:red;
 }
 
-.container{
+input[type="password"]{
+    border: 2px solid blue;
+}
+
+button{
+    &:hover{
+        background-color: purple;
+    }
+}
+.container p{
     color:rgb(0, 153, 255);
+}
+
+p::first-letter{
+    font-size: 20px;
 }
